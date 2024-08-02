@@ -10,4 +10,10 @@ Microsoft Sentinel is like a superhero for our security. It watches over our com
 
 Before we applied NIST CSF and NIST 800-53, our lab was like a house with open doors and windows. After applying these frameworks, we locked all the doors and windows and set up an alarm system. This makes it much harder for hackers to get in and keeps our data safe.
 
-In summary, using NIST CSF and NIST 800-53 in Azure, along with tools like Log Analytics and Sentinel, helps protect our digital world from cyber threats. (I wrote this so that anyone reading it could understand. Keep it simple, teach it real.)
+In summary, using NIST CSF and NIST 800-53 in Azure, along with tools like Log Analytics and Sentinel, helps protect our digital world from cyber threats. (I wrote this so that anyone reading it could understand. Keep it simple, teach it real.) ![map-1](https://github.com/user-attachments/assets/499b3649-82f4-4bcf-a6a3-79b1bb02b4be) ![map-2](https://github.com/user-attachments/assets/ccd46ea4-e4de-4832-af1b-d6438f4508f9) ![map-3](https://github.com/user-attachments/assets/7be8ea13-c381-48f0-ae6c-d8df6a1b8b98) ![map-4](https://github.com/user-attachments/assets/c6db2bae-1779-46ab-b9d0-be3e5f9b7f19) ![results](https://github.com/user-attachments/assets/aa7b770f-de6b-4a4b-b303-382bbfc6ab78) ![queries](https://github.com/user-attachments/assets/f4c51f79-9a30-4edd-a6a6-bddd6e2aeb20)
+
+
+
+
+
+
